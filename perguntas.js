@@ -5,15 +5,9 @@ criarCartao(
 );
 
 criarCartao(
-    "Dinossauro",    
-    "Qual o mlr dinossauro",  
-    "todos" 
-);
-
-criarCartao(
-    "Dinossauro",    
-    "Qual o mlr dinossauro",  
-    "todos" 
+    "Categoria",    
+    "Pergunta",  
+    "Resposta" 
 );
 
 criarCartao(
@@ -23,15 +17,21 @@ criarCartao(
 );
 
 criarCartao(
-    "Dinossauro",    
-    "Qual o mlr dinossauro",  
-    "todos" 
+    "Categoria",    
+    "Pergunta",  
+    "Resposta" 
 );
 
 criarCartao(
-    "Dinossauro",    
-    "Qual o mlr dinossauro",  
-    "todos" 
+    "Categoria",    
+    "Pergunta",  
+    "Resposta" 
+);
+
+criarCartao(
+    "Categoria",    
+    "Pergunta",  
+    "Resposta" 
 );
 
 document.querySelectorAll('#container .cartao').forEach(cartao => {
