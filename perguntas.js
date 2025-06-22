@@ -17,39 +17,9 @@ criarCartao(
 );
 
 criarCartao(
-    "Dinossauro",    
-    "Qual o mlr dinossauro",  
-    "todos" 
-);
-
-criarCartao(
-    "Dinossauro",    
-    "Qual o mlr dinossauro",  
-    "todos" 
-);
-
-criarCartao(
-    "Dinossauro",    
-    "Qual o mlr dinossauro",  
-    "todos" 
-);
-
-criarCartao(
-    "Dinossauro",    
-    "Qual o mlr dinossauro",  
-    "todos" 
-);
-
-criarCartao(
-    "Dinossauro",    
-    "Qual o mlr dinossauro",  
-    "todos" 
-);
-
-criarCartao(
-    "Dinossauro",    
-    "Qual o mlr dinossauro",  
-    "todos" 
+    "Categoria",    
+    "Pergunta",  
+    "Resposta" 
 );
 
 criarCartao(
