@@ -1,37 +1,37 @@
 criarCartao(
-    "Categoria",    
-    "Pergunta",  
-    "Resposta" 
+    "bandeira",    
+    "qual a cor da bandeira de Laos?",  
+    "Vermelho, Azul e Branco" 
 );
 
 criarCartao(
-    "Categoria",    
-    "Pergunta",  
-    "Resposta" 
+    "historia",    
+    "oque causou a queda da Urss?",  
+    "má gestão econômica, a falta de liberdade política, o desgaste do sistema comunista e a pressão de movimentos nacionalistas" 
 );
 
 criarCartao(
-    "Categoria",    
-    "Pergunta",  
-    "Resposta" 
+    "Desenho Animado",    
+    "quantas vezes o kenny morreu em south park?",
+    "127vezes" 
 );
 
 criarCartao(
-    "Categoria",    
-    "Pergunta",  
-    "Resposta" 
+    "kpop",    
+    "Quantos premios tem o TXT?",  
+    "17" 
 );
 
 criarCartao(
-    "Categoria",    
-    "Pergunta",  
-    "Resposta" 
+    "Jogos",    
+    "qual o jogomasi antigo do roblox?", 
+    "Classic Rocket Arena" 
 );
 
 criarCartao(
-    "Categoria",    
-    "Pergunta",  
-    "Resposta" 
+    "pessoas",    
+    "qual o ultimo jogo lançado pelo Andrezitos",  
+    "Invasores" 
 );
 
 document.querySelectorAll('#container .cartao').forEach(cartao => {
